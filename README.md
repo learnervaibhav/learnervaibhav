@@ -27,17 +27,13 @@
 I’m **Vaibhav Baranwal**, an Under Grad Student**.
 
 -  Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning**
--  Building: **public-scale analytics**, **optimization engines**, **tourism impact systems**
 
----
-
-## 🧩 Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,react,nodejs,mongodb,mysql,git,github,linux&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,react,mongodb,mysql,git,github,&perline=12" />
 </p>
 
----
 
 ##  Featured Projects
 
@@ -46,7 +42,7 @@ A system to optimize internship allocation using decision logic and constraint-a
 - real-world allocation style workflow
 - scalable for institutional / batch allocation  
 **Tech:** Python, Optimization, Data Structures  
-🔗 Repo: https://github.com/learnervaibhav/PM_Internship_Allocation_Engine
+ Repo: https://github.com/learnervaibhav/PM_Internship_Allocation_Engine
 
 ---
 
@@ -55,7 +51,7 @@ Advanced analysis of Aadhaar enrolment/update trends with insight extraction and
 - spatiotemporal trend mining
 - indicators for operational improvement  
 **Tech:** Python, EDA, Trend Analytics  
-🔗 Repo: https://github.com/learnervaibhav/UIDAI_AADHAAR_DATA_ANALYSIS
+ Repo: https://github.com/learnervaibhav/UIDAI_AADHAAR_DATA_ANALYSIS
 
 ---
 
@@ -64,7 +60,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 - structured place intelligence
 - scalable to dashboards and policy scoring  
 **Tech:** Python, Analytics, Web Integration  
-🔗 Repo: https://github.com/learnervaibhav/Tourism-Spots-Assessment-System
+ Repo: https://github.com/learnervaibhav/Tourism-Spots-Assessment-System
 
 ---
 
