@@ -1,8 +1,3 @@
-<!-- =========================================================
-     GitHub Profile README — Vaibhav Baranwal
-     Username: learnervaibhav
-========================================================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,40:1A237E,75:00E5FF,100:7C4DFF&height=220&section=header&text=Vaibhav%20Baranwal&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -24,7 +19,7 @@
 
 ##  About Me
 
-I’m **Vaibhav Baranwal**, an Under Grad Student**.
+I’m **Vaibhav Baranwal**, an Under Grad Student.
 
 -  Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning**
 
