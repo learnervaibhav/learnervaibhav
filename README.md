@@ -1,7 +1,6 @@
 <!-- =========================================================
      GitHub Profile README — Vaibhav Baranwal
      Username: learnervaibhav
-     Style: AI / Research / Dynamic Dashboard
 ========================================================== -->
 
 <p align="center">
@@ -9,13 +8,13 @@
 </p>
 
 <h3 align="center">“i write code that thinks”</h3>
-<p align="center">AI/ML Developer • Research Enthusiast • Deep Learning • GNN • Reinforcement Learning</p>
+<p align="center">AI/ML Developer • Deep Learning • Backend Devlopment </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-baranwal-a39793293/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:vb@gmail.com">
+  <a href="mailto:baranwalvaibhav2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=learnervaibhav&style=for-the-badge&color=0A66C2"/>
@@ -23,14 +22,12 @@
 
 ---
 
-## 👨‍🚀 About Me
+##  About Me
 
-I’m **Vaibhav Baranwal**, working on AI systems that go beyond demos — systems that can **analyze**, **predict**, and **support decision-making**.
+I’m **Vaibhav Baranwal**, an Under Grad Student**.
 
-- 🧠 Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning**
-- 🔭 Building: **public-scale analytics**, **optimization engines**, **tourism impact systems**
-- ⚙️ Strength: **data → modeling → evaluation → deployment**
-- 🎯 Focus: research-driven engineering + real-world usability
+-  Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning**
+-  Building: **public-scale analytics**, **optimization engines**, **tourism impact systems**
 
 ---
 
@@ -71,7 +68,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 
 ---
 
-## ⚡ Live Dashboard (Dynamic)
+## Live Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnervaibhav&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -84,7 +81,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 
 ---
 
-## 📌 Recent GitHub Activity (Auto-updated)
+##  Recent GitHub Activity (Auto-updated)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -117,7 +114,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 ##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/vaibhav-baranwal-a39793293/
-- Email: vb@gmail.com
+- Email: baranwalvaibhav2005@gmail.com
 
 ---
 
