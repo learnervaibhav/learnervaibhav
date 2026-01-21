@@ -39,9 +39,9 @@ I’m **Vaibhav Baranwal**, an Under Grad Student**.
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 1) 🎯 PM Internship Allocation Engine
+### 1)  PM Internship Allocation Engine
 A system to optimize internship allocation using decision logic and constraint-aware mapping.  
 - real-world allocation style workflow
 - scalable for institutional / batch allocation  
@@ -50,7 +50,7 @@ A system to optimize internship allocation using decision logic and constraint-a
 
 ---
 
-### 2) 🛰️ UIDAI Aadhaar Data Analysis
+### 2)  UIDAI Aadhaar Data Analysis
 Advanced analysis of Aadhaar enrolment/update trends with insight extraction and anomaly direction.  
 - spatiotemporal trend mining
 - indicators for operational improvement  
@@ -59,7 +59,7 @@ Advanced analysis of Aadhaar enrolment/update trends with insight extraction and
 
 ---
 
-### 3) 🌍 Tourism Spots Assessment System
+### 3)  Tourism Spots Assessment System
 A tourism analytics system for assessing impact, crowd pressure & decision support.  
 - structured place intelligence
 - scalable to dashboards and policy scoring  
@@ -81,7 +81,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 
 ---
 
-##  Recent GitHub Activity (Auto-updated)
+##  Recent GitHub Activity 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
