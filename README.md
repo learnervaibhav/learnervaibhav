@@ -92,15 +92,6 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
   <img src="https://raw.githubusercontent.com/learnervaibhav/learnervaibhav/output/github-snake-dark.svg" />
 </p>
 
----
-
-##  Trophy Board
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learnervaibhav&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ##  Connect With Me
 
