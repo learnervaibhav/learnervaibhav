@@ -26,7 +26,7 @@ I’m **Vaibhav Baranwal**, an Under Grad Student.
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,react,mongodb,mysql,git,github,&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,react,mongodb,mysql,git,github&perline=12" />
 </p>
 
 
@@ -69,10 +69,8 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/api?username=learnervaibhav&theme=tokyo-night&hide_border=true&area=true" />
 </p>
->
 
-
-
+---
 
 ##  Contribution Snake
 
