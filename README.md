@@ -75,11 +75,13 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
-Total Time: 0 secs
+Total Time: 1 hr 56 mins
 
-No activity tracked
+Python       1 hr 34 mins    ████████████████████▒░░░░   81.42 %
+Java         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
