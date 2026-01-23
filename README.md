@@ -70,23 +70,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnervaibhav&theme=tokyo-night&hide_border=true"/>
 </p>
 
-##  Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 January 2026 - To: 22 January 2026
-
-Total Time: 1 hr 56 mins
-
-Python       1 hr 34 mins    ████████████████████▒░░░░   81.42 %
-Java         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-```
-
-<!--END_SECTION:waka-->
-
----
 
 ##  Contribution Snake
 
