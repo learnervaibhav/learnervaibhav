@@ -63,12 +63,8 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnervaibhav&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnervaibhav&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=learnervaibhav&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
