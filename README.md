@@ -25,7 +25,7 @@
 
 I’m **Vaibhav Baranwal**, an Under Grad Student.
 
--  Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning**
+-  Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning, and backend development**
 
 ##  Tech Stack
 
