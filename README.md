@@ -54,9 +54,9 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 
 ---
 
-## Live Dashboard
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=learnervaibhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=learnervaibhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> -->
 
 
 
@@ -70,7 +70,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 
 
 ##  Connect With Me
-
+- Portfolio: http://vaibhavbaranwal.me/
 - LinkedIn: https://www.linkedin.com/in/vaibhav-baranwal-a39793293/
 - Email: baranwalvaibhav2005@gmail.com
 
