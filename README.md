@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">“i write code that thinks”</h3>
-<p align="center">AI/ML Developer • Deep Learning • Backend Devlopment </p>
+<p align="center">AI/ML • Deep Learning • Backend Devlopment </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-baranwal-a39793293/">
