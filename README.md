@@ -65,7 +65,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 ##  Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/learnervaibhav/learnervaibhav/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/learnervaibhav/learnervaibhav/output/github-snake-dark.svg?cache=1" />
 </p>
 
 
