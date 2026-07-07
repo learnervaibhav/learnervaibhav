@@ -13,7 +13,7 @@
 <a href="https://vaibhavbaranwal.me/">
   </a>
   
-  <a href="mailto:baranwalvaibhav2005@gmail.com">
+  <a href="mailto:vbaranwal069.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=learnervaibhav&style=for-the-badge&color=0A66C2"/>
@@ -23,7 +23,7 @@
 
 ##  About Me
 
-I’m **Vaibhav Baranwal**, an Under Grad Student.
+I’m **Vaibhav Baranwal**, an undergrad student.
 
 -  Core interests: **Deep Learning, Graph Neural Networks, Reinforcement Learning, and backend development**
 
