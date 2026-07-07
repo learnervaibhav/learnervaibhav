@@ -13,7 +13,7 @@
 <a href="https://vaibhavbaranwal.me/">
   </a>
   
-  <a href="mailto:vbaranwal069.com">
+  <a href="mailto:vbaranwal069@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=learnervaibhav&style=for-the-badge&color=0A66C2"/>
