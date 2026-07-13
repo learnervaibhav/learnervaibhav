@@ -72,7 +72,7 @@ A tourism analytics system for assessing impact, crowd pressure & decision suppo
 ##  Connect With Me
 - Portfolio: http://vaibhavbaranwal.me/
 - LinkedIn: https://www.linkedin.com/in/vaibhav-baranwal-a39793293/
-- Email: baranwalvaibhav2005@gmail.com
+- Email: vbaranwal069@gmail.com
 
 ---
 
